@@ -1,0 +1,37 @@
+body {
+  width: 100%;
+  background-image: url('http://www.planwallpaper.com/static/images/494303a2cb59b5103ed095867f3d5dbd.jpg');
+  /*background-size: 150%;*/
+  background-position: center;
+}
+
+.profile {
+  width: 400px;
+  height: 500px;
+  margin: 0 auto;
+  position: relative;
+  top: 100px;
+  padding: 20px 100px 20px;
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 10px;
+  box-shadow: 4px 4px 20px #000000;
+
+  
+}
+
+.hideProfile {
+	display: none;
+}
+
+#newProfileDiv {
+  width: 400px;
+  height: 500px;
+  margin: 0 auto;
+  position: relative;
+  top: 100px;
+  padding: 20px 100px 20px;
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 10px;
+  box-shadow: 4px 4px 20px #000000;
+}
+
